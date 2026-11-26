@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.1",
-    "apkVersionCode":  387,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.1",
+    "version":  "3.6.2",
+    "apkVersionCode":  388,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.2",
     "apkUrl":  "",
     "notes":  "Cập nhật tính năng mới \u0026 sửa lỗi tối ưu.",
     "sizeKB":  374.5,
-    "updatedAt":  1795694425021
+    "updatedAt":  1795694672699
 }
