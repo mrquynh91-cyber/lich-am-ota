@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.14",
-    "apkVersionCode":  400,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.14",
+    "version":  "3.6.15",
+    "apkVersionCode":  401,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.15",
     "apkUrl":  "",
-    "notes":  "Hỗ trợ Cầu nối Proxy AI (Cloudflare Workers 0đ / VPS — dùng nhiều máy \u0026 nhiều key dự phòng, không cần nhập Key trên máy người thân).",
-    "sizeKB":  405.2,
-    "updatedAt":  1795752179941
+    "notes":  "Cập nhật tính năng mới \u0026 sửa lỗi tối ưu.",
+    "sizeKB":  408.7,
+    "updatedAt":  1795754612883
 }
