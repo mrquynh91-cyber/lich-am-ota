@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.9",
-    "apkVersionCode":  395,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.9",
+    "version":  "3.6.10",
+    "apkVersionCode":  396,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.10",
     "apkUrl":  "",
-    "notes":  "Cập nhật tính năng mới \u0026 sửa lỗi tối ưu.",
-    "sizeKB":  397.1,
-    "updatedAt":  1795748547654
+    "notes":  "Tự động tính liền mạch ngày các kỳ theo Ngày bắt đầu vay (hết nhảy cóc tháng) + thêm ô đổi Ngày bắt đầu vay trực tiếp ngay trên bảng.",
+    "sizeKB":  397.5,
+    "updatedAt":  1795749143983
 }
