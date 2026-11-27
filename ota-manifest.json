@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.13",
-    "apkVersionCode":  399,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.13",
+    "version":  "3.6.14",
+    "apkVersionCode":  400,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.14",
     "apkUrl":  "",
-    "notes":  "Nâng cấp định vị GPS đọc chuẩn tên Phường/Xã (zoom 16) + tự cập nhật vị trí \u0026 Ra-đa khi di chuyển từ 800m trở lên.",
-    "sizeKB":  404.5,
-    "updatedAt":  1795751274577
+    "notes":  "Hỗ trợ Cầu nối Proxy AI (Cloudflare Workers 0đ / VPS — dùng nhiều máy \u0026 nhiều key dự phòng, không cần nhập Key trên máy người thân).",
+    "sizeKB":  405.2,
+    "updatedAt":  1795752179941
 }
