@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.11",
-    "apkVersionCode":  397,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.11",
+    "version":  "3.6.12",
+    "apkVersionCode":  398,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.12",
     "apkUrl":  "",
-    "notes":  "Nâng cấp Thời tiết chuẩn ECMWF Châu Âu + dự báo 24h theo giờ + đủ 63 tỉnh + Thái Thụy (Thái Bình) + tìm xã/huyện \u0026 GPS chuẩn Android.",
-    "sizeKB":  402.6,
-    "updatedAt":  1795750132243
+    "notes":  "Thêm bản đồ Ra-đa mây mưa trực tiếp (Windy \u0026 RainViewer ~1km xem từng quận/xã) + tự động cập nhật GPS khi di chuyển \u003e 2km.",
+    "sizeKB":  404.4,
+    "updatedAt":  1795750976571
 }
