@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.12",
-    "apkVersionCode":  398,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.12",
+    "version":  "3.6.13",
+    "apkVersionCode":  399,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.13",
     "apkUrl":  "",
-    "notes":  "Thêm bản đồ Ra-đa mây mưa trực tiếp (Windy \u0026 RainViewer ~1km xem từng quận/xã) + tự động cập nhật GPS khi di chuyển \u003e 2km.",
-    "sizeKB":  404.4,
-    "updatedAt":  1795750976571
+    "notes":  "Nâng cấp định vị GPS đọc chuẩn tên Phường/Xã (zoom 16) + tự cập nhật vị trí \u0026 Ra-đa khi di chuyển từ 800m trở lên.",
+    "sizeKB":  404.5,
+    "updatedAt":  1795751274577
 }
