@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.10",
-    "apkVersionCode":  396,
-    "bundleUrl":  "ota-bundle.zip?v=3.6.10",
+    "version":  "3.6.11",
+    "apkVersionCode":  397,
+    "bundleUrl":  "ota-bundle.zip?v=3.6.11",
     "apkUrl":  "",
-    "notes":  "Tự động tính liền mạch ngày các kỳ theo Ngày bắt đầu vay (hết nhảy cóc tháng) + thêm ô đổi Ngày bắt đầu vay trực tiếp ngay trên bảng.",
-    "sizeKB":  397.5,
-    "updatedAt":  1795749143983
+    "notes":  "Nâng cấp Thời tiết chuẩn ECMWF Châu Âu + dự báo 24h theo giờ + đủ 63 tỉnh + Thái Thụy (Thái Bình) + tìm xã/huyện \u0026 GPS chuẩn Android.",
+    "sizeKB":  402.6,
+    "updatedAt":  1795750132243
 }
